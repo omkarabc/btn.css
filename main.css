@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+body {
+  font-family: "Inria Sans", sans-serif;
+}
+
+img {
+  border-radius: 0.2 rem;
+}
+.circle {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  background-color: aqua;
+}
